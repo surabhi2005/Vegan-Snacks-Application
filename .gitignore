@@ -1,0 +1,13 @@
+# === React only ===
+reactapp/node_modules/
+reactapp/build/
+reactapp/dist/
+reactapp/.env
+reactapp/.parcel-cache/
+
+# Logs
+*.log
+
+# IDE/editor files (optional but recommended)
+.vscode/
+.idea/
